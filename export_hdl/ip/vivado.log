@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:48:12 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Tue Dec 27 13:01:45 2022
+# Process ID: 1383346
+# Current directory: /home/nhsmt1123/grad_thesis/fully-pipelined-bilateral-grid/dev/export_hdl/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/nhsmt1123/grad_thesis/fully-pipelined-bilateral-grid/dev/export_hdl/solution1/impl/ip/vivado.log
+# Journal file: /home/nhsmt1123/grad_thesis/fully-pipelined-bilateral-grid/dev/export_hdl/solution1/impl/ip/vivado.jou
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/gopt/Xilinx/Vivado/2019.2/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Tue Dec 27 13:01:54 2022...

@@ -1,0 +1,15 @@
+export_hdl/*
+!export_hdl/ip
+!export_hdl/bg_csynth.rpt
+!export_hdl/generate_hdl.sh
+!export_hdl/script.tcl
+
+vivado/*
+!vivado/ip
+!vivado/bg.tcl
+!vivado/design_1_wrapper.v
+!vivado/generate_bitstream.sh
+!vivado/move_bitstream.sh
+
+pynq/design_1.bit
+pynq/design_1.hwh
