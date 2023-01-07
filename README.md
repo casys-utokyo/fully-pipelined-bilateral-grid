@@ -73,9 +73,6 @@ Note: If you just want to execute and evaluate this design, move to `4. Execute 
 
 - **ZCU104** board with Zynq UltraScale+ MPSoC XCZU7EV-2FFVC1156 from Xilinx
     - PYNQ Linux 2.6, based on Ubuntu 18.04 (GNU/Linux 5.4.0-xilinx-v2020.1 aarch64)
-- GPU **A100 PCIe** from NVIDIA
-- g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
-    - OpenCV v4.5.1
 
 
 ## 1. Prepare source codes
