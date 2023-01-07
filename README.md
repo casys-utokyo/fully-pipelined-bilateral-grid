@@ -30,7 +30,7 @@ For further information on our paper, you can view the following materials.
 - [Program and Abstract](https://whova.com/embedded/session/kScht29Q8lAG98UvGiEh7UVYTNeJssTMevISW%407S-oU%3D/1837318/)
 - [Paper (IEEE Xplore)](https://ieeexplore.ieee.org/document/9556446)
 - [Paper (arXiv)](https://arxiv.org/abs/2110.07186)
-- [Papers With Code](https://cs.paperswithcode.com/paper/an-fpga-based-fully-pipelined-bilateral-grid-for-real-time-image-denoising)
+- [Papers With Code](https://cs.paperswithcode.com/paper/an-fpga-based-fully-pipelined-bilateral-grid)
 - [Slides](https://speakerdeck.com/hashi0203/an-fpga-based-fully-pipelined-bilateral-grid-for-real-time-image-denoising-fpl-2021)
 - [Movie](https://youtu.be/q5lxi7N-uX8)
 
